@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.music.ui.MainUII
+Class-Path: . ./img ..
+Created-By: Yi Ming
